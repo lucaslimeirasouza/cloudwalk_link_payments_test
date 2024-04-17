@@ -1,4 +1,5 @@
-This app provides a payment link interface where users can make payments using their own cards. It displays the transaction status (approved or denied) to the user.
+This app provides a payment link interface where users can make payments using their own cards. It displays the transaction status (approved or denied) to the user.<br />
+*The answers to the questions are in the PDF file (answers_understand_the_industry)
 
 Dependencies
 equatable: Utility for comparing dart objects<br />
