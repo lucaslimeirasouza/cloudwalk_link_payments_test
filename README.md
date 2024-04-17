@@ -32,7 +32,7 @@ Run the project:<br />
 flutter run 
 
 approved payment flow<br />
-![image](https://github.com/lucaslimeirasouza/cloudwalk_payments_test/assets/65864780/f1bd6188-bed5-4484-a5d1-66b4f8bfdb30)
+![image](https://github.com/lucaslimeirasouza/cloudwalk_link_payments_test/assets/65864780/f5b8735b-b2c2-41bf-abc8-7f764ca57b86)
 declined payment flow<br />
 ![image](https://github.com/lucaslimeirasouza/cloudwalk_payments_test/assets/65864780/f09d3ea6-6437-4b97-9c8c-b166e48de0d2)
 errors<br />
